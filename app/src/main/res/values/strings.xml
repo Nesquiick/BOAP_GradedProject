@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GradedProject</string>
+    <string name="title_main">Habits Tracker</string>
+    <string name="red">RED</string>
+    <string name="white">WHITE</string>
+    <string name="yellow">YELLOW</string>
+    <string name="green">GREEN</string>
+    <string name="blue">BLUE</string>
+    <string name="magenta">MAGENTA</string>
+    <string name="cyan">CYAN</string>
+    <string name="gray">GRAY</string>
+    <string name="light_gray">LIGHT GRAY</string>
+    <string name="black">BLACK</string>
+    <string name="dark_gray">DARK GRAY</string>
+    <string name="purple_new">PURPLE</string>
+    <string name="title"> HABITS TRACKER</string>
+    <string name="input_text">Enter a new habit</string>
+    <string name="add">Add</string>
+    <string name="todo_list">TODO LIST</string>
+    <string name="enter_the_task_to_do">Enter the task to add</string>
+    
+    <string name="ok">OK</string>
+    <string name="mon">Mon</string>
+    <string name="tue">Tue</string>
+    <string name="wed">Wed</string>
+    <string name="thu">Thu</string>
+    <string name="fri">Fri</string>
+    <string name="sat">Sat</string>
+    <string name="sun">Sun</string>
+
+</resources>
