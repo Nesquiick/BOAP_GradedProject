@@ -3,10 +3,12 @@ package graded.project;
     -----------------------------------------------------------------------------------------
     For the Graded Exercise of Basic of android programming :
     I wanted at first to do a Habit tracker. After two weeks of trying to figure out how to
-    create a different view in the Java code I decided to finally do a "to do" list.
+    create a different view in the Java code (make a dynamic view, which load more than one
+    element depending on what's the user is doing) I decided to finally do a "to do" list.
     I still have the view of my only try that worked "old_activity_main.xml".
     I was just setting the visibility of the concerned layout in VISIBLE, but there was a
-    limit of 7 habits tracked.
+    limit of 7 habits tracked (the one that I implemented, it worked, but was really messy
+    and had too much limits).
 
     I learned a lot during this class. Thanks !
     -----------------------------------------------------------------------------------------

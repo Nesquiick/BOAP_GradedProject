@@ -1,3 +1,4 @@
+<!-- Here is my first view for my habit tracker that I have try to do at first, this code is not used anymore. -->
 <?xml version="1.0" encoding="utf-8"?>
 <androidx.constraintlayout.widget.ConstraintLayout
     xmlns:android="http://schemas.android.com/apk/res/android"

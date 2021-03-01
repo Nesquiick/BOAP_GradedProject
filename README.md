@@ -1,7 +1,7 @@
 "# BOAP_GradedProject" 
 
-This application was made by Loreleï NOIRAUD (V4)
------------------------------------------------------------------------------------------
+***This application was made by Loreleï NOIRAUD (V4)***
+
 For the Graded Exercise of Basic of android programming :
 -----------------------------------------------------------------------------------------
 I wanted at first to do a Habit tracker. After two weeks of trying to figure out how to
